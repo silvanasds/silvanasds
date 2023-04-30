@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Silvana Silva
 
 - 🔭 I’m currently working on quality assurance
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Automação de Testes
 - 📫 How to reach me: silvana.sds28@gmail.com
 
 
