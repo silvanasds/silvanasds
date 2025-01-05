@@ -4,7 +4,7 @@
 - 🌱 I am currently looking to work as a Requirements Analyst | Test Automation
 - 📫 How to reach me: silvana.sds28@gmail.com
   
-Meus Conhecimentos: Java - JavaScript - TypeScript - React - Cucumber - CSS - Python - Ruby - C# - Cypress
+Meus Conhecimentos: Java - JavaScript - TypeScript - React - Cucumber - HTML - CSS - Python - Ruby - C# - Cypress
 
   <a href="https://github.com/silvanasds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silvanasds&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
