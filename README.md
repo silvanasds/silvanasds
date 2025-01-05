@@ -1,9 +1,9 @@
 ### Oie! Eu sou a Silvana Silva
 
-- 🔭 I’m currently working on quality assurance
-- 🌱 I’m currently learning Automação de Testes
+- 🔭 I am currently studying systems analysis and development
+- 🌱 I am currently looking to work as a Requirements Analyst | Test Automation
 - 📫 How to reach me: silvana.sds28@gmail.com
-
+Meus Conhecimentos: Java - JavaScript - Cucumber - PHP - Python - Ruby - C# - Cypress
 
   <a href="https://github.com/silvanasds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=silvanasds&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
